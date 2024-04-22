@@ -1,0 +1,33 @@
+﻿
+@model IEnumerable<Product>
+@if (Model != null && Model.Any())
+{
+
+   
+       
+         <div class="col-lg-4">
+            <div class="owl-item cloned" style="width: 210px;">
+            <div class="product__discount__item">                                    
+ @foreach (var item in Model)
+    {
+        
+            <div class="product__discount__item__pic set-bg" data-setbg="@item.Image" style="background-image: url(&quot;img/product/discount/pd-4.jpg&quot;);">
+                <div class="product__discount__percent">-20%</div>
+                <ul class="product__item__pic__hover">
+                    <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                    <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                    <li><a href="/ShoppingCart/AddToCart/?ProductId=@item.id"><i class="fa fa-shopping-cart"></i></a></li>
+                </ul>
+            </div>
+            <div class="product__discount__item__text">
+                
+                <h5><a href="#">@item.Name</a></h5>
+                <div class="product__item__price">@item.Price </div>
+            </div>
+          
+    }
+            </div>
+        </div>
+    </div>
+    
+}

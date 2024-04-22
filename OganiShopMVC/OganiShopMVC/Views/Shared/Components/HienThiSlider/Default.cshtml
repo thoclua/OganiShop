@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Slide>
+@if (Model != null && Model.Any())
+{
+
+	@foreach (var item in Model)
+	{
+                 
+                       
+                            <div class="banner__pic">
+                                <img src="@item.Slide_Value" alt="">
+                            </div>
+                      
+                    
+	}
+
+}

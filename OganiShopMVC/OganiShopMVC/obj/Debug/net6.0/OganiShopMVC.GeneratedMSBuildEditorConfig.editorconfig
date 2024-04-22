@@ -1,0 +1,249 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OganiShopMVC
+build_property.RootNamespace = OganiShopMVC
+build_property.ProjectDir = d:\MVC\ogindoan\OganiShop\OganiShopMVC\OganiShopMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\MVC\ogindoan\OganiShop\OganiShopMVC\OganiShopMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/CategoryNew/CreateOrUpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlOZXdcQ3JlYXRlT3JVcGRhdGVDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/CategoryNew/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlOZXdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Category/CreateOrUpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlT3JVcGRhdGVDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/CheckOut/CheckOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcQ2hlY2tPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/CheckOut/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Config/CreateOrUpdateConfig.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlnXENyZWF0ZU9yVXBkYXRlQ29uZmlnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Config/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlnXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/HelloController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Db250cm9sbGVyMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/HienThiContact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGllblRoaUNvbnRhY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/HienThiNew/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGllblRoaU5ld1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/HienThiNew/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGllblRoaU5ld1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/HienThiProduct/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGllblRoaVByb2R1Y3RcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/HienThiProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGllblRoaVByb2R1Y3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/HienThiProduct/_Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGllblRoaVByb2R1Y3RcX0NhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/New/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3XENyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/New/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Product/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/Cart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HienThiCategoryNew/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGllblRoaUNhdGVnb3J5TmV3XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HienThiCategory/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGllblRoaUNhdGVnb3J5XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HienThiNew/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGllblRoaU5ld1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HienThiProductByCategoryId/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGllblRoaVByb2R1Y3RCeUNhdGVnb3J5SWRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HIenThiPRoductByCategory/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSEllblRoaVBSb2R1Y3RCeUNhdGVnb3J5XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HienThiProductNew/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGllblRoaVByb2R1Y3ROZXdcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HIenThiProductSaleByCategory/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSEllblRoaVByb2R1Y3RTYWxlQnlDYXRlZ29yeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HienThiProductSale/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGllblRoaVByb2R1Y3RTYWxlXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HienThiProductTopRated/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGllblRoaVByb2R1Y3RUb3BSYXRlZFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HienThiProduct/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGllblRoaVByb2R1Y3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Components/HienThiSlider/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGllblRoaVNsaWRlclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/_LayoutLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/ShoppingCart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XENhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Slide/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVcQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Slide/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/User/ViewSetRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWaWV3U2V0Um9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/User/ViewUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWaWV3VXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/MVC/ogindoan/OganiShop/OganiShopMVC/OganiShopMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ql8fyahx2w

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Product>
+@if (Model != null && Model.Any())
+{
+
+    @foreach (var item in Model)
+    {
+        
+                <a href="#" class="latest-product__item">
+                    <div class="latest-product__item__pic">
+                        <img src="@item.Image" alt="">
+                    </div>
+                    <div class="latest-product__item__text">
+                        <h6>@item.Name</h6>
+                        <span>@item.Price</span>
+                    </div>
+                </a>
+                @* <a href="#" class="latest-product__item">
+        <div class="latest-product__item__pic">
+        <img src="img/latest-product/lp-2.jpg" alt="">
+        </div>
+        <div class="latest-product__item__text">
+        <h6>Crab Pool Security</h6>
+        <span>$30.00</span>
+        </div>
+        </a>
+        <a href="#" class="latest-product__item">
+        <div class="latest-product__item__pic">
+        <img src="img/latest-product/lp-3.jpg" alt="">
+        </div>
+        <div class="latest-product__item__text">
+        <h6>Crab Pool Security</h6>
+        <span>$30.00</span>
+        </div>
+        </a>*@
+           
+                @*<a href="#" class="latest-product__item">
+        <div class="latest-product__item__pic">
+        <img src="img/latest-product/lp-2.jpg" alt="">
+        </div>
+        <div class="latest-product__item__text">
+        <h6>Crab Pool Security</h6>
+        <span>$30.00</span>
+        </div>
+        </a>
+        <a href="#" class="latest-product__item">
+        <div class="latest-product__item__pic">
+        <img src="img/latest-product/lp-3.jpg" alt="">
+        </div>
+        <div class="latest-product__item__text">
+        <h6>Crab Pool Security</h6>
+        <span>$30.00</span>
+        </div>
+        </a>*@
+        
+    }
+
+}

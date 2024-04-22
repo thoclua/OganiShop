@@ -1,0 +1,43 @@
+﻿@model Slide
+
+
+
+<div class="modal fade bd-example-nodal-lg" id="create-or-update" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Product</h5>
+                <button type="button" class="close button-close" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <div class="form-group row">
+                        <div class="form-group col-md-6 mb-3">
+                            <label for="inputName" class="col-sm-2 col-form-label">Silde_Code</label>
+                            <input type="text" class="form-control" id="inputName" placeholder="Silde_Code" value="@Model.Silde_Code" />
+                        </div>
+                    </div>
+                    <div class="form-group row mb-3">
+                        <label for="avata" class="col-sm-2 col-form-label">Slide_Value</label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="image" value="@Model.Slide_Value " style="display:none" />
+
+                            <input type="file" class="form-control btn-upload-single-image" />
+                            <div>
+                                <img src="@Model.Slide_Value " style="width:100px;height:100px" id="show-upload-single-image" />
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary button-close">Close</button>
+                <button type="button" class="btn btn-primary" id="btn-save-san-pham" sp-id="@Model.id">Save changes</button>
+            </div>
+        </div>
+
+    </div>
+</div>

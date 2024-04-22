@@ -1,0 +1,19 @@
+﻿@model IEnumerable<CategoryNew>
+@if (Model != null && Model.Any())
+{
+
+    @foreach (var item in Model)
+    {
+
+                        <ul>
+                           
+                            <li><a href="#">@item.CategoryName</a></li>
+                           @* <li><a href="#">Food (5)</a></li>
+                            <li><a href="#">Life Style (9)</a></li>
+                            <li><a href="#">Travel (10)</a></li>*@
+                        </ul>
+
+
+
+    }
+}
